@@ -53,7 +53,7 @@ ax.set_title('3D Scatter Plot')
 ax.set_xlabel('x', labelpad=20)
 ax.set_ylabel('y', labelpad=20)
 ax.set_zlabel('z', labelpad=20)
-
+plt.savefig('')
 plt.show()
 
 
